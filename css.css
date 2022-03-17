@@ -1,0 +1,45 @@
+body{
+    background-image: url(ltex.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ;
+    background-position-y:11% ;
+}
+
+.please{
+    width: 300px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 435px;
+    height: 39px;
+}
+
+form{
+    background-color: rgba(0, 0, 255, 0.274);
+    padding: 10px 0px 10px 30px;
+    width: 400px;
+    margin: auto;
+    border: 2px solid rgba(0, 0, 255, 0.5);
+}
+
+.all{
+    padding: 40px; 
+}
+
+.a{
+    margin: 3px;
+}
+
+H1{
+    margin: 10px;
+}
+
+.nav{
+    background-color: rgba(153, 204, 52, 0.26);
+    margin: -8px;
+}
+
+hr{
+    margin: opx;
+}
